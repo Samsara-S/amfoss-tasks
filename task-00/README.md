@@ -1,4 +1,4 @@
-                                                    # UBUNTU 21.04LTS
+                                                     UBUNTU  21.04 LTS
 **Things were complicated for me right from start, I have i3 4 gen processor Laptop 
 that makes turning on browser on Windows 11 a task itself.Honestly changing    
 intoto linux based Distro actually enchanced my laptop's capabilities particularly if you look at response -reaction time of my laptop ,when i give a command.
